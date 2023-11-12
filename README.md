@@ -1,2 +1,2 @@
-# Prueba2
+# Prueba GitHub
 probando Github
